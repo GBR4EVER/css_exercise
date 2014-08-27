@@ -1,0 +1,24 @@
+html {
+box-sizing: border-box;
+}
+*, *:before, *:after {
+box-sizing: inherit;
+}
+
+/* LAYOUT */
+#container {
+	background: #4496B9;
+	width: 800px;
+	margin: 0 auto 0 auto;
+	position: relative;
+}
+
+#top {
+	background: #1C993D;
+	padding-left: 340px;
+}
+
+#bottom {
+	background: #E9461F;
+	padding-left: 560px;
+}
