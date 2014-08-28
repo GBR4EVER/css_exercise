@@ -19,7 +19,7 @@ header h1 {
 	text-align: center;
 }
 
-#top {
+#main-nav {
 	background: #1C993D;
 	padding-left: 50px;
 	padding-right: 50px;
@@ -29,7 +29,8 @@ header h1 {
 	margin: 10 auto 0 auto;
 }
 
-#bottom {
+
+#primary-nav {
 	background: #E9461F;
 	padding-left: 50px;
 	padding-right: 50px;
