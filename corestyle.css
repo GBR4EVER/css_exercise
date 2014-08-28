@@ -49,8 +49,19 @@ article {
 	background: #FF0;
 }
 
-li {
+#box1 {
+	background: #F00;
+	width: 250px;
+	height: 250px;
+	float: left;
+	margin: 800 200 200 auto;
+}
+
+#box2 {
 	
 }
 
+#box3 {
+	
+}
 
