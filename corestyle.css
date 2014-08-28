@@ -8,17 +8,48 @@ box-sizing: inherit;
 /* LAYOUT */
 #container {
 	background: #4496B9;
-	width: 800px;
+	width: 1000px;
+	height: 1000px;
 	margin: 0 auto 0 auto;
 	position: relative;
 }
 
+header h1 {
+	text transform: uppercase;
+	text-align: center;
+}
+
 #top {
 	background: #1C993D;
-	padding-left: 340px;
+	padding-left: 50px;
+	padding-right: 50px;
+	float: center;
+	width: 1000px;
+	height: 25px;
+	margin: 10 auto 0 auto;
 }
 
 #bottom {
 	background: #E9461F;
-	padding-left: 560px;
+	padding-left: 50px;
+	padding-right: 50px;
+	float: right;
+	width: 1000px;
+	height: 50px;
+	margin: 200 auto 0 auto;
 }
+
+article {
+	width: 1000px;
+	height: 500px;
+	float: center;
+	padding-left: 50px;
+	padding-right: 50px;
+	background: #FF0;
+}
+
+li {
+	
+}
+
+
